@@ -1,0 +1,1 @@
+/home/sebastian/transcribe_to_obsidian.py
